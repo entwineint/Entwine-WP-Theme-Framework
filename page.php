@@ -1,6 +1,6 @@
 <?php
 /**
- * The template for displaying posts, pages and single
+ * The template for displaying of any pages
  *
  * @package entwineint
  * @subpackage entwine-wp-theme-framework
