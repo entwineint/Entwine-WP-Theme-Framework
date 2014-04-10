@@ -1,4 +1,4 @@
-Entwine-WP-Theme-Framework
+WordPress Theme Framework
 ==========================
 
 Basic boilerplate for WordPress theme building.
